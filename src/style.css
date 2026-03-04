@@ -165,7 +165,7 @@ button {
 
 /* Hero */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/hero-bg.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/public/hero-bg.png');
   background-size: cover;
   background-position: center;
   color: var(--white);
@@ -485,7 +485,7 @@ button {
 
 /* CTA Section */
 .cta-banner {
-  background: linear-gradient(rgba(0, 33, 71, 0.8), rgba(0, 33, 71, 0.8)), url('/cta-bg.png');
+  background: linear-gradient(rgba(0, 33, 71, 0.8), rgba(0, 33, 71, 0.8)), url('/public/cta-bg.png');
   background-size: cover;
   background-position: center;
   padding: var(--spacing-xl) 0;
