@@ -1,0 +1,36 @@
+:root {
+  /* Colors */
+  --primary-blue: #002147;
+  --primary-gold: #d4af37;
+  --secondary-blue: #003366;
+  --accent-gold: #ffd700;
+  --white: #ffffff;
+  --off-white: #f9f9f9;
+  --text-dark: #333333;
+  --text-light: #666666;
+  --success: #28a745;
+  --whatsapp-green: #25d366;
+
+  /* Typography */
+  --font-main: "Inter", system-ui, -apple-system, sans-serif;
+  --font-bold: 700;
+  --font-medium: 500;
+  --font-regular: 400;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.15);
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+}
